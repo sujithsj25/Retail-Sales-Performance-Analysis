@@ -4,7 +4,7 @@ An end-to-end retail sales analytics project developed using **Microsoft Excel, 
 
 ## 📊 Dashboard Preview
 
-<img width="3251" height="1499" alt="Dashboard_optimized_10000" src="https://github.com/user-attachments/assets/2de14fcb-2573-41c1-bf76-929a817cb9f4" />
+![Retail Sales Performance Dashboard](Version_1/Dashboard_Image/Retail_Sales_Performance_Dashboard.png)
 
 
 ## 📊 Project Overview
@@ -285,14 +285,7 @@ This project demonstrates practical experience in:
 - Business analysis
 - Insight generation
 - Data-driven recommendations
-
----
-
-## 📸 Dashboard Preview
-
-![Retail Sales Performance Dashboard](Version_1/Dashboard_Image/Retail_Sales_Performance_Dashboard.png)
-
----
+- 
 
 ## 📋 Project Requirements
 
