@@ -2,6 +2,8 @@
 
 An end-to-end retail sales analytics project developed using **Microsoft Excel, Power Query, Pivot Tables, Power Pivot/Data Model, and DAX** to analyze sales, profitability, products, stores, customer segments, sales channels, and monthly performance.
 
+## 📊 Dashboard Preview
+
 <img width="3251" height="1499" alt="Dashboard_optimized_10000" src="https://github.com/user-attachments/assets/2de14fcb-2573-41c1-bf76-929a817cb9f4" />
 
 
