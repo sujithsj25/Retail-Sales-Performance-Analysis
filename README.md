@@ -3,6 +3,12 @@
 An end-to-end retail sales analytics project developed using **Microsoft Excel, Power Query, Pivot Tables, Power Pivot/Data Model, and DAX** to analyze sales, profitability, products, stores, customer segments, sales channels, and monthly performance.
 
 
+## 📊 Dashboard Preview
+
+
+![Retail Sales Performance Dashboard](Version_1/Dashboard_Image/Retail_Sales_Performance_Dashboard.png)
+
+
 ## 📊 Project Overview
 
 This project analyzes retail transaction data for the period **1 January 2025 to 31 December 2025**.
