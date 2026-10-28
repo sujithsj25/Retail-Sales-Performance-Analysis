@@ -5,8 +5,7 @@ An end-to-end retail sales analytics project developed using **Microsoft Excel, 
 
 ## 📊 Dashboard Preview
 
-
-![Retail Sales Performance Dashboard](Version_1/Dashboard_Image/Retail_Sales_Performance_Dashboard.png)
+![Retail Sales Performance Dashboard](./Version_1/Dashboard_Image/Retail_Sales_Performance_Dashboard.png)
 
 
 ## 📊 Project Overview
